@@ -1,0 +1,26 @@
+Event	ID	Name			Wwise Object Path	Notes
+	324906724	Stop_Sprint			\Default Work Unit\Stop_Sprint	
+	340271938	Walking			\Default Work Unit\Walking	
+	818607407	Stop_Movement			\Default Work Unit\Stop_Movement	
+	1289942167	Stairs			\Default Work Unit\Stairs	
+	1877847629	door			\Default Work Unit\door	
+	2235615413	stop_text			\Default Work Unit\stop_text	
+	2443174198	Suspense_Low			\Default Work Unit\Suspense_Low	
+	2972449336	text			\Default Work Unit\text	
+	3323273505	Menu_Loop			\Default Work Unit\Menu_Loop	
+	3484778228	Suspense_High			\Default Work Unit\Suspense_High	
+	3691594375	Sprinting			\Default Work Unit\Sprinting	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	128351864	Sunspense_low	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Sunspense_low_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Suspense_Low\Sunspense_low\Sunspense_low		8467264
+	154253373	Menu_Final_Loop	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Menu_Final_Loop_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\menu_music\Menu_Final_Loop\Menu_Final_Loop		23284864
+	202356566	Sunspense_high	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Sunspense_high_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\Suspense_High\Sunspense_high\Sunspense_high		8467264
+	224686716	366111__dkiller2204__indoor-footsteps	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\366111__dkiller2204__indoor-footsteps_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\walking\wood walking\366111__dkiller2204__indoor-footsteps		733888
+	399971940	Indoor_Footsteps_dkiller2204_freesound_org	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Indoor_Footsteps_dkiller2204_freesound.org_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\stairs\Indoor_Footsteps_dkiller2204_freesound_org\Indoor_Footsteps_dkiller2204_freesound_org		733888
+	568212360	Door_Squeak_Inspector3_freesounds_org	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Door_Squeak_Inspector3_freesounds.org_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\door\door_open\Door_Squeak_Inspector3_freesounds_org		520216
+	595708720	Vinyl-Crackle_scottyhigh20_freesounds_org	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Vinyl-Crackle_scottyhigh20_freesounds.org_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\menu_music\Vinyl-Crackle_scottyhigh20_freesounds_org\Vinyl-Crackle_scottyhigh20_freesounds_org		5159764
+	612399211	Door_Closing_Inspector3_freesounds_org	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Door_Closing_Inspector3_freesounds.org_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\door\door_close\Door_Closing_Inspector3_freesounds_org		221144
+	648157904	Menu_Final_Start	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Menu_Final_Start_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\menu_music\Menu_Final_Start\Menu_Final_Start		4233664
+	907919092	Indoor_Footsteps_dkiller2204_freesound_org_sprint	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Indoor_Footsteps_dkiller2204_freesound.org_sprint_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\sprint\Indoor_Footsteps_dkiller2204_freesound_org_sprint\Indoor_Footsteps_dkiller2204_freesound_org_sprint		132364
+	941439531	Text_effect	E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\SFX\Text_effect_D79FB2B7.wem		\Interactive Music Hierarchy\Default Work Unit\dialogue\Text_effect\Text_effect		132364
+

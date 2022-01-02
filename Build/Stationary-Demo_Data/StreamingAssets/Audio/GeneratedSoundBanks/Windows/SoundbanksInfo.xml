@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>E:\School Shit\College 3rd yr\IGME 320\Dresden-Game_Repo\Project 3\Project 3_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="702482391" Language="SFX" Hash="2148839593">
+			<ObjectPath>\SoundBanks\Default Work Unit\Game</ObjectPath>
+			<ShortName>Game</ShortName>
+			<Path>Game.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1877847629" Name="door" ObjectPath="\Events\Default Work Unit\door" DurationType="OneShot" DurationMin="2.749100" DurationMax="2.749100">
+					<IncludedMemoryFiles>
+						<File Id="568212360" Language="SFX">
+							<ShortName>Door_Squeak_Inspector3_freesounds.org.wav</ShortName>
+							<Path>SFX\Door_Squeak_Inspector3_freesounds.org_D79FB2B7.wem</Path>
+						</File>
+						<File Id="612399211" Language="SFX">
+							<ShortName>Door_Closing_Inspector3_freesounds.org.wav</ShortName>
+							<Path>SFX\Door_Closing_Inspector3_freesounds.org_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3323273505" Name="Menu_Loop" ObjectPath="\Events\Default Work Unit\Menu_Loop" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="154253373" Language="SFX">
+							<ShortName>Menu_Final_Loop.wav</ShortName>
+							<Path>SFX\Menu_Final_Loop_D79FB2B7.wem</Path>
+						</File>
+						<File Id="595708720" Language="SFX">
+							<ShortName>Vinyl-Crackle_scottyhigh20_freesounds.org.wav</ShortName>
+							<Path>SFX\Vinyl-Crackle_scottyhigh20_freesounds.org_D79FB2B7.wem</Path>
+						</File>
+						<File Id="648157904" Language="SFX">
+							<ShortName>Menu_Final_Start.wav</ShortName>
+							<Path>SFX\Menu_Final_Start_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="3691594375" Name="Sprinting" ObjectPath="\Events\Default Work Unit\Sprinting" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="907919092" Language="SFX">
+							<ShortName>Indoor_Footsteps_dkiller2204_freesound.org_sprint.wav</ShortName>
+							<Path>SFX\Indoor_Footsteps_dkiller2204_freesound.org_sprint_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="1289942167" Name="Stairs" ObjectPath="\Events\Default Work Unit\Stairs" DurationType="OneShot" DurationMin="2.026355" DurationMax="2.026355">
+					<IncludedMemoryFiles>
+						<File Id="399971940" Language="SFX">
+							<ShortName>Indoor_Footsteps_dkiller2204_freesound.org.wav</ShortName>
+							<Path>SFX\Indoor_Footsteps_dkiller2204_freesound.org_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="818607407" Name="Stop_Movement" ObjectPath="\Events\Default Work Unit\Stop_Movement" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="324906724" Name="Stop_Sprint" ObjectPath="\Events\Default Work Unit\Stop_Sprint" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2235615413" Name="stop_text" ObjectPath="\Events\Default Work Unit\stop_text" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3484778228" Name="Suspense_High" ObjectPath="\Events\Default Work Unit\Suspense_High" DurationType="OneShot" DurationMin="30.150753" DurationMax="30.150753">
+					<IncludedMemoryFiles>
+						<File Id="202356566" Language="SFX">
+							<ShortName>Sunspense_high.wav</ShortName>
+							<Path>SFX\Sunspense_high_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2443174198" Name="Suspense_Low" ObjectPath="\Events\Default Work Unit\Suspense_Low" DurationType="OneShot" DurationMin="30.472361" DurationMax="30.472361">
+					<IncludedMemoryFiles>
+						<File Id="128351864" Language="SFX">
+							<ShortName>Sunspense_low.wav</ShortName>
+							<Path>SFX\Sunspense_low_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2972449336" Name="text" ObjectPath="\Events\Default Work Unit\text" DurationType="OneShot" DurationMin="0.247487" DurationMax="0.247487">
+					<IncludedMemoryFiles>
+						<File Id="941439531" Language="SFX">
+							<ShortName>Text_effect.wav</ShortName>
+							<Path>SFX\Text_effect_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="340271938" Name="Walking" ObjectPath="\Events\Default Work Unit\Walking" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="224686716" Language="SFX">
+							<ShortName>366111__dkiller2204__indoor-footsteps.wav</ShortName>
+							<Path>SFX\366111__dkiller2204__indoor-footsteps_D79FB2B7.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="197176581">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<GameParameters>
+				<GameParameter Id="988953028" Name="SFXVolume" ObjectPath="\Game Parameters\Default Work Unit\SFXVolume"/>
+				<GameParameter Id="2346531308" Name="MusicVolume" ObjectPath="\Game Parameters\Default Work Unit\MusicVolume"/>
+				<GameParameter Id="2918011349" Name="MasterVolume" ObjectPath="\Game Parameters\Default Work Unit\MasterVolume"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
